@@ -1,0 +1,30 @@
+.app--container{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.register--container{
+  padding: 10px 20px;
+  border: 3px solid black;
+  width: max-content;
+  height: max-content;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.register--title{
+  text-align: center;
+  margin-top: 2px;
+  font-family: monospace;
+
+}
+
+.register--button{
+  float: right;
+  padding: 2px 5px;
+}
+
+.title2{
+  text-align: right;
+  margin-top: 40px;
+  font-family: monospace;
+}
